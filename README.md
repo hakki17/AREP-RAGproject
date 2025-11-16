@@ -32,8 +32,11 @@ python rag_system.py
 ## Ejemplo Output
 
 - temperature=0
+  ![](https://github.com/hakki17/AREP-RAGproject/blob/main/img/1.pruebas-0.png)
 - temperature=0.7
+  ![](https://github.com/hakki17/AREP-RAGproject/blob/main/img/2.pruebas-03.png)
 - temperature=1
+  ![](https://github.com/hakki17/AREP-RAGproject/blob/main/img/3.pruebas-1.png)
 
 ## Estructura
 
